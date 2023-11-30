@@ -8,6 +8,8 @@ Im Hauptrepository [Dungeon](https://github.com/Programmiermethoden/Dungeon) fin
 *   [Direkt Download als `.zip`](https://github.com/Programmiermethoden/Dungeon-StarterKit/archive/refs/heads/master.zip)
 *   Klonen per Git mit `git clone https://github.com/Programmiermethoden/Dungeon-StarterKit.git`
 *   [Folgen Sie dem Quickstart](https://github.com/Programmiermethoden/Dungeon/tree/master/dungeon/doc/quickstart.md)
+*   Die [Spielanleitung](https://github.com/Programmiermethoden/Dungeon/blob/master/dungeon/doc/how_to_play.md) erklärt die wichtigsten Grundlagen zum spielen. 
+* [Eigene Aufgaben definieren](https://github.com/Programmiermethoden/Dungeon/blob/master/dungeon/doc/dsl/task_definition.md)
 
 ## Demo Starten
 
