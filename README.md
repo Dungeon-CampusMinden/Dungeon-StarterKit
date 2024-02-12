@@ -33,8 +33,7 @@ This project is funded by [Stiftung für Innovation in der Hochschullehre](https
 
 This [work](https://github.com/Programmiermethoden/Dungeon-StarterKit) by
 [André Matutat](https://github.com/AMatutat),
-[Malte Reinsch](https://github.com/malt-r),
-[Carsten Gips](https://github.com/cagix), and
+[Malte Reinsch](https://github.com/malt-r), and
 [contributors](https://github.com/Programmiermethoden/Dungeon/graphs/contributors)
 is licensed under [MIT](LICENSE.md).
 
