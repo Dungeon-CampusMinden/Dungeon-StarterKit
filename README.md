@@ -15,8 +15,8 @@ Im Hauptrepository [Dungeon](https://github.com/Dungeon-CampusMinden/Dungeon) fi
 
 Um die fertige Demo zu starten, laden Sie sich die Vorgaben herunter und navigieren Sie mit einem Terminal-Fenster in das Verzeichnis:
 
-*   Starten unter Windows mit dem Befehl: `starter.bat`
-*   Starten unter Linux und MacOS mit dem Befehl: `bash starter.sh`
+*   Starten unter Windows mit dem Befehl: `demo.bat`
+*   Starten unter Linux und MacOS mit dem Befehl: `./demo.sh`
 
 ## Requirements
 
