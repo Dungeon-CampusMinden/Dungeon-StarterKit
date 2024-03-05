@@ -20,7 +20,7 @@ Um die fertige Demo zu starten, laden Sie sich die Vorgaben herunter und navigie
 
 ## Requirements
 
-- Java SE Development Kit 17.0.x LTS
+- Java SE Development Kit 21.0.x LTS
 
 ## Credits
 
